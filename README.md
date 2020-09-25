@@ -6,24 +6,23 @@
 
 ## Features
 
-    asks several questions:
-        * Title
-        * Username
-        * Email
-            * confirms whether you'd like to provide this.
-        * project description
-        * how to install the application
-        * instructions on how to use the app
-        * The license on the project.
-        * how to contribute to the project
-        * How you'd like people to to test the app.
-    usees this information to write down to a readme.md file.
+asks several questions:
+    - Title
+    - Username
+    - Email
+        * confirms whether you'd like to provide this.
+    - project description
+    - how to install the application
+    - instructions on how to use the app
+    - The license on the project.
+    - how to contribute to the project
+    - How you'd like people to to test the app.
+usees this information to write down to a readme.md file.
 
 ## Languages
-
     javascript/node.js
-
-    ### Packages
+    
+### Packages
     inquirer
 
 ## Contributors
@@ -42,4 +41,4 @@ in order to use this application:
 
 ## Walkthrough
 
-
+[download the demo video here](./demo/Readme-Writer-Demo)
