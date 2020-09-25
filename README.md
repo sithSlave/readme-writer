@@ -41,4 +41,4 @@ in order to use this application:
 
 ## Walkthrough
 
-[download the demo video here](./demo/Readme-Writer-Demo)
+[download the demo video here](https://github.com/sithSlave/readme-writer/blob/master/demo/Readme-Writer-Demo.mp4)
